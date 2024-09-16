@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ My name is Yash and im on the software engineering pathway, i have a basic grasp of python but eager to learn much more!
 <!--
 **yash-sa1/yash-sa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
